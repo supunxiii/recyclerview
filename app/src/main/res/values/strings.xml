@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="fact_1">cats share 95.6% of their genetic makeup with tigers</string>
+    <string name="fact_2">cats can jump 5 times their own height</string>
+    <string name="fact_3">cats can run 30 mph over short distances</string>
+    <string name="fact_4">male cats are commonly left pawed while female cats are right pawed</string>
+    <string name="fact_5">cats have 18 toes, 5 on their front paws and 4 on their back paws</string>
+    <string name="fact_6">the oldest cat to live was Creme Puff, who lived to be 38 years and 3 days old</string>
+    <string name="fact_7">cats have 32 muscles in each of their ears allowing them to rotate their ears 180 degrees</string>
+    <string name="fact_8">cats are short-sighted but have excellent peripheral vision</string>
+    <string name="fact_9">cat whiskers are connected to their muscular and nervous systems so they can detect changes in their surroundings</string>
+    <string name="fact_10">cats have a set of whiskers on the back of their front legs</string>
+    <string name="fact_11">the wealthiest cat in the world, Blackie, had a fortune of £7 million</string>
+    <string name="fact_12">cats usually sleep around an average of 15 hours per day which is 70% of their lives</string>
+    <string name="fact_13">in Ancient Egypt, family members would shave their eyebrows in mourning if their cat died</string>
+</resources>
